@@ -1,0 +1,80 @@
+DAY 1 PYTHON – ALL PRACTICE EXERCISES
+
+INPUT / OUTPUT
+Exercise 1.1 – User Profile Card
+Create a program that asks name, country, profession and prints a formatted profile card.
+
+Exercise 1.2 – Voice Project Setup Info
+Ask project name, model type, dataset size and print formatted output.
+
+
+DATA TYPES
+Exercise 2.1 – Type Inspector
+Create 4 variables (int, float, string, boolean) and print their values and types.
+
+Exercise 2.2 – Type Conversion Test
+Ask a number as string, convert it into int and float, print both and their types.
+
+
+CONDITIONS
+Exercise 3.1 – AI Dataset Eligibility
+Ask for dataset size. If ≥ 1000 → Sufficient for training else Insufficient data.
+
+Exercise 3.2 – Login System
+Ask username & password. If match → Access Granted else Access Denied.
+
+
+LOOPS
+Exercise 4.1 – Sum of N Numbers
+Ask for N. Use a loop to calculate sum of 1 to N.
+
+Exercise 4.2 – Dataset Iterator
+Create list of 5 audio file names. Loop and print each.
+
+
+COLLECTIONS
+Exercise 5.1 – Student Marks
+Create list of marks, add one mark, print total and average.
+
+Exercise 5.2 – Voice Metadata Dictionary
+Create dictionary with speaker, language, duration and print values.
+
+
+FUNCTIONS
+Exercise 6.1 – Area Calculator
+Create function area_of_circle(radius).
+
+Exercise 6.2 – AI Accuracy Checker
+Create function is_accurate(score).
+
+
+FILE HANDLING
+Exercise 7.1 – Notes Saver
+Ask user for a note, save to notes.txt, read and display.
+
+Exercise 7.2 – Dataset List Writer
+Create list of 5 filenames and write into dataset.txt.
+
+
+ERROR HANDLING
+Exercise 8.1 – Safe Division
+Ask two numbers and handle errors.
+
+Exercise 8.2 – Safe File Reader
+Try to open missing file and handle safely.
+
+
+MINI CALCULATOR
+Exercise 9.1 – Menu Calculator
+Create menu based calculator.
+
+Exercise 9.2 – Calculator with Functions
+Each operation in separate function.
+
+
+LOGGER
+Exercise 10.1 – Login Activity Logger
+Ask username and login status, log with timestamp.
+
+Exercise 10.2 – Voice Command Logger
+Ask spoken command and log to file.
